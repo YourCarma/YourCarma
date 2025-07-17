@@ -55,4 +55,5 @@ I am **interesting** in:
 
 ## Stats
 [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YourCarma&langs_count=5&theme=gruvbox)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourcarma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
