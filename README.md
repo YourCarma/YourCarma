@@ -1,14 +1,18 @@
 <img width="100%" src="https://github.com/YourCarma/YourCarma/blob/main/DSC_00215.jpg" style="object-fit: cover;" alt="Moscow">
 
 # Hi, I'm YourCarma! 👋
+
 ## 🚀 About Me
-I am **interesting** in:
+Generaly I am interesting in Web AI development.
+
+Also, I am **interesting** in:
 * Backend;
 * Machine Learning;
 * Frontend;
 * Researches;
 * Architecture.
 
+🧠 I'm currently learning **Rust and AXUM framework**
 
 
 ## 🔗 Languages
@@ -37,7 +41,7 @@ I am **interesting** in:
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![VueJS](https://img.shields.io/badge/Pinia-%23FFE953?style=for-the-badge&logo=pinia&logoColor=4FC08D)
 
-### 🧠 ML
+### 🧠 AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
