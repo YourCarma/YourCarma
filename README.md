@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/YourCarma/YourCarma/blob/main/DSC_00215.jpg" style="object-fit: cover; height: 300px;" alt="Обрезанное изображение">
+<img width="100%" src="https://github.com/YourCarma/YourCarma/blob/main/DSC_00215.jpg" style="object-fit: cover;" alt="Moscow">
 
 # Hi, I'm YourCarma! 👋
 ## 🚀 About Me
