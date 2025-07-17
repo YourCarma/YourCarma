@@ -1,6 +1,6 @@
+<img width="100%" src="https://github.com/YourCarma/YourCarma/blob/main/DSC_00215.jpg" style="object-fit: cover; height: 300px;" alt="Обрезанное изображение">
+
 # Hi, I'm YourCarma! 👋
-
-
 ## 🚀 About Me
 I am **interesting** in:
 * Backend;
@@ -55,4 +55,4 @@ I am **interesting** in:
 
 ## Stats
 [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YourCarma&langs_count=5&theme=gruvbox)]()
-[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YourCarma&langs_count=5&theme=gruvbox)]()
+
