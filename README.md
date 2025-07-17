@@ -30,11 +30,12 @@ Also, I am **interesting** in:
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![tokio](https://img.shields.io/badge/tokio-000000?style=for-the-badge&logo=tokio)
 ![SqlAlchemy](https://img.shields.io/badge/SQLAlchemy-316192?style=for-the-badge&logo=SQLAlchemy)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-<marquee class="sampleMarquee" direction="left" scrollamount="7" behavior="scroll">
 
 ### 🎨 Frontend
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -49,9 +50,13 @@ Also, I am **interesting** in:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-316192.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![LLM](https://img.shields.io/badge/OpenAI_api-12a37f.svg?style=for-the-badge&logo=openai&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FF00?style=for-the-badge)
 
 ### 📦 Others
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kong](https://img.shields.io/badge/Kong_API_Gateway-003459?style=for-the-badge&logo=kong&logoColor=white)
+![Logto](https://img.shields.io/badge/Logto-000000?style=for-the-badge)
 
 ## Contact
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CambrFive)
